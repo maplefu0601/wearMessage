@@ -1,4 +1,4 @@
-package com.neutun.android.wearmessage;
+package com.fun.android.wearmessage;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
